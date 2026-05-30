@@ -1,0 +1,411 @@
+# Abstract
+
+The following radio stations broadcast on FM frequency 101.9 MHz:
+
+# Argentina
+
+- de La Costa in Granadero Baigorria, Santa Fe
+
+- LRI405 Activa in Arteaga, Santa Fe
+
+- LRM955 Maria Juana in María Juana, Santa Fe
+
+- Radio María in Olavarría, Buenos Aires
+
+- Radio María in Villa del Soto, Córdoba
+
+- Radio María in Ceres, Santa Fe
+
+- Radio Positiva in Rosario, Santa Fe
+
+# Australia
+
+- 4MMK in Mackay, Queensland
+
+- 2NWR in Armidale, New South Wales
+
+- 3FOX in Melbourne, Victoria
+
+- 2WLF in Wagga Wagga, New South Wales
+
+- ABC Radio National in Roxby Downs, South Australia
+
+- 4CEE in Maryborough, Queensland
+
+- Snow FM in Perisher Ski Resort, New South Wales
+
+- Triple J in Orange, New South Wales
+
+- Triple J in Renmark, South Australia
+
+- Triple J in Strahan, Tasmania
+
+# Canada (Channel 270)
+
+- CBAL-FM-1 in Neguac-Allardville, New Brunswick
+
+- CBAX-FM-2 in St. John's, Newfoundland and Labrador
+
+- CBJ-FM-4 in L'Anse-St-Jean, Quebec
+
+- CBMG-FM in Cowansville, Quebec
+
+- CBPL-FM in Kamloops, British Columbia
+
+- CFDA-FM in Victoriaville, Quebec
+
+- CFFB-1-FM in Cambridge Bay, Nunavut
+
+- CFFB-2-FM in Kugluktuk, Nunavut
+
+- CFLO-FM-1 in L'Annonciation, Quebec
+
+- CFND-FM in St-Jerome, Quebec
+
+- CFRC-FM in Kingston, Ontario
+
+- CFUV-FM in Victoria, British Columbia
+
+- CHAI-FM in Chateauguay, Quebec
+
+- CHAI-FM-1 in Candiac, Quebec
+
+- CHFP-FM in Fort Providence, Northwest Territories
+
+- CHFS-FM in Fort Smith, Northwest Territories
+
+- CHFX-FM in Halifax, Nova Scotia
+
+- CHIP-FM in Fort-Coulonge, Quebec
+
+- CHRK-FM in Sydney, Nova Scotia
+
+- CHRR-FM in Hay River Reserve, Northwest Territories
+
+- CITR-FM in Vancouver, British Columbia
+
+- CJFW-FM-2 in Prince Rupert, British Columbia
+
+- CJFW-FM-8 in Hazelton, British Columbia
+
+- CJSS-FM in Cornwall, Ontario
+
+- CKFX-FM in North Bay, Ontario
+
+- CKKC-1-FM in Crawford Bay, British Columbia
+
+- CKKY-FM in Wainwright, Alberta
+
+- CKLB-FM in Yellowknife, Northwest Territories
+
+- VF2008 in Arctic Red River, Northwest Territories
+
+- VF2020 in Kakisa, Northwest Territories
+
+- VF2022 in Fort Liard, Northwest Territories
+
+- VF2025 in Wrigley, Northwest Territories
+
+- VF2026 in Snowdrift, Northwest Territories
+
+- VF2054 in Lac La Martre, Northwest Territories
+
+- VF2069 in Fort Franklin, Northwest Territories
+
+- VF2070 in Fort Good Hope, Northwest Territories
+
+- VF2071 in Fort Rae, Northwest Territories
+
+- VF2080 in Fort McPherson, Northwest Territories
+
+- VF2081 in Fort Resolution, Northwest Territories
+
+- VF2082 in Inuvik, Northwest Territories
+
+- VF2083 in Aklavik, Northwest Territories
+
+- VF2101 in Fort St. James, British Columbia
+
+- VF2102 in Fort Simpson, Northwest Territories
+
+- VF2387 in St-Ludger-de-Milot, Quebec
+
+- VOAR-11-FM in Goose Bay, Newfoundland and Labrador
+
+# China
+
+- CNR China Traffic Radio in Yinchuan
+
+- CRI News Radio in Chizhou (stopped airing on 15 January 2021)
+
+- Meizhou News Radio in Meizhou
+
+# Malaysia
+
+- Johor FM in Johor Bahru, Johor and Singapore
+
+- Nasional FM in Kota Bharu, Kelantan
+
+- Raaga in Langkawi, Kedah
+
+# Mexico
+
+- XEAD-FM in Guadalajara, Jalisco
+
+- XHCAM-FM in Campeche, Campeche
+
+- XHCBJ-FM in Cancún, Quintana Roo
+
+- XHCPAB-FM in Mazatlán, Sinaloa
+
+- XHENU-FM in Nuevo Laredo, Tamaulipas
+
+- XHEOF-FM in Celaya (El Puesto), Guanajuato
+
+- XHHOS-FM in Hermosillo (La Paloma), Sonora
+
+- XHPF-FM in Mexicali, Baja California
+
+- XHPNA-FM in Tepic, Nayarit
+
+- XHRIC-FM in Poza Rica, Veracruz
+
+- XHUMI-FM in Torreón, Coahuila
+
+- XHUQ-FM in Zihuatanejo, Guerrero
+
+# Philippines (Channel 270)
+
+- DWRR-FM in Quezon City, Metro Manila (inactive due to franchise non-renewal of ABS-CBN)
+
+- DYFM in Cebu City
+
+- DXFM in Davao City
+
+- DWKP in Legazpi
+
+- DXJP in Zamboanga
+
+# Turkey
+
+- TRT-4 at Gaziantep
+
+- Radyo Mavi at Gebze, Istanbul, Bursa, Kocaeli, Sakarya, Tekirdağ, Çanakkale, Balıkesir and Edirne
+
+# United Kingdom
+
+- Classic FM in Belfast, Northern Ireland
+
+- Heart West in Ivybridge
+
+# United States (Channel 270)
+
+- KACQ in Lometa, Texas
+
+- KATP in Amarillo, Texas
+
+- KBTO in Bottineau, North Dakota
+
+- KBUS in Paris, Texas
+
+- KBXT in Franklin, Texas
+
+- KCMX-FM in Ashland, Oregon
+
+- KCSC-LP in Mukilteo, Washington
+
+- KELO-FM in Sioux Falls, South Dakota
+
+- KFGG-LP in Marble Falls, Texas
+
+- KFMH in Belle Fourche, South Dakota
+
+- KHHM in Shingle Springs, California
+
+- KHTB in Ogden, Utah
+
+- KIGN-FM in Burns, Wyoming
+
+- KINK in Portland, Oregon
+
+- KJDS in Mountain Pine, Arkansas
+
+- KJFK-LP in Hot Springs, Montana
+
+- KJVV in Twentynine Palms, California
+
+- KKQY in Hill City, Kansas
+
+- KLBN in Fresno, California
+
+- KLWR in North Rock Springs, Wyoming
+
+- KMVX in Monroe, Louisiana
+
+- KMXF in Lowell, Arkansas
+
+- KNHK-FM in Weston, Oregon
+
+- KNWS-FM in Waterloo, Iowa
+
+- KOOO in La Vista, Nebraska
+
+- KPBM-LP in Poplar Bluff, Missouri
+
+- KPCR-LP in Santa Cruz, California
+
+- KQBL in Emmett, Idaho
+
+- KQES-LP in Bellevue, Washington
+
+- KQKK in Walker, Minnesota
+
+- KQSS in Miami, Arizona
+
+- KQXT-FM in San Antonio, Texas
+
+- KRSQ in Laurel, Montana
+
+- KRWK in Fargo, North Dakota
+
+- KSCA (FM) in Glendale, California
+
+- KSML-FM in Huntington, Texas
+
+- KSMZ-LP in Missoula, Montana
+
+- KSUG in Heber Springs, Arkansas
+
+- KTAH-LP in Tacoma, Washington
+
+- KTAO in Taos, New Mexico
+
+- KTKB-FM in Agana, Guam
+
+- KTSL in Medical Lake, Washington
+
+- KTST in Oklahoma City, Oklahoma
+
+- KUCD in Pearl City, Hawaii
+
+- KVJH-LP in Topeka, Kansas
+
+- KVSH-LP in Vashon, Washington
+
+- KWFR in San Angelo, Texas
+
+- KWID in Las Vegas, Nevada
+
+- KWNW in Crawfordsville, Arkansas
+
+- KXWA in Centennial, Colorado
+
+- KXZI-LP in Kalispell, Montana
+
+- KYAD-LP in Bakersfield, California
+
+- KZWV in Eldon, Missouri
+
+- KZZQ (FM) in Richardton, North Dakota
+
+- WARU-FM in Roann, Indiana
+
+- WATB-LP in Atlanta, Georgia
+
+- WAVT-FM in Pottsville, Pennsylvania
+
+- WAZX-FM in Cleveland, Georgia
+
+- WBAV-FM in Gastonia, North Carolina
+
+- WBGE in Bainbridge, Georgia
+
+- WCIB in Falmouth, Massachusetts
+
+- WCOQ in Alfred, New York
+
+- WDET-FM in Detroit, Michigan
+
+- WDEZ in Wausau, Wisconsin
+
+- WDXD-LP in Tallahassee, Florida
+
+- WEKV in Central City, Kentucky
+
+- WFAN-FM in New York, New York
+
+- WFTA in Fulton, Mississippi
+
+- WHHY-FM in Montgomery, Alabama
+
+- WHTE-FM in Ruckersville, Virginia
+
+- WHUG in Jamestown, New York
+
+- WIKS in New Bern, North Carolina
+
+- WJFL in Tennille, Georgia
+
+- WJHM in Daytona Beach, Florida
+
+- WJIV in Cherry Valley, New York
+
+- WJVR in Iron Gate, Virginia
+
+- WKFC in North Corbin, Kentucky
+
+- WKKN in Westminster, Vermont
+
+- WKLU in Brownsburg, Indiana
+
+- WKQS-FM in Negaunee, Michigan
+
+- WKRP-LP in Raleigh, North Carolina
+
+- WKRQ in Cincinnati, Ohio
+
+- WKSK-FM in South Hill, Virginia
+
+- WLDR-FM in Traverse City, Michigan
+
+- WLFZ in Springfield, Illinois
+
+- WLIF in Baltimore, Maryland
+
+- WLMG in New Orleans, Louisiana
+
+- WOCE in Ringgold, Georgia
+
+- WOCT-LP in Oshkosh, Wisconsin
+
+- WOIB-LP in Oakland Park, Florida
+
+- WOMP-LP in Cambridge, Ohio
+
+- WOZI in Presque Isle, Maine
+
+- WPHX-LP in Ruskin, Florida
+
+- WPNG (FM) in Pearson, Georgia
+
+- WPOR in Portland, Maine
+
+- WQJJ-LP in Jasper, Alabama
+
+- WRFP-LP in Eau Claire, Wisconsin
+
+- WSDX-LP in Brandon, Florida
+
+- WTMX-FM in Skokie, Illinois
+
+- WVAQ in Morgantown, West Virginia
+
+- WVLQ in Port St. Joe, Florida
+
+- WVOW-FM in Logan, West Virginia
+
+- WWGR in Fort Myers, Florida
+
+- WYLR in Hubbard, Ohio
+
+- WZAR in Ponce, Puerto Rico

@@ -1,0 +1,25 @@
+# Abstract
+
+Venezuela and Trinidad were struck by a major earthquake on 21 October 1766 at 4:30 in the morning local time in Cumaná, Venezuela (4:45 local time in Trinidad). It caused widespread damage from Caracas in the west to Georgetown, Guyana in the east. Despite the significant damage caused, there are no reports of casualties associated with this earthquake. It had an estimated magnitude in the range 6.5–7.5 M and a maximum felt intensity of IX-X (destructive to very destructive) on the European macroseismic scale. It was felt from Guadeloupe in the north to the Ventuari River in the south and Maracaibo in the west and Kaw, French Guiana in the east.
+
+# Tectonic setting
+
+The southeastern margin of the Caribbean lies above the complex boundary between the Caribbean plate and the South American plate. In northern Colombia and western Venezuela, the Caribbean plate is subducting obliquely beneath the North Andes plate (part of the South American plate). East of Trinidad, the South American plate is, in contrast, subducting beneath the Caribbean plate along the Lesser Antilles subduction zone. Between these two areas, most of the relative plate motion is taken up by a major dextral (right-lateral) transform fault zone, formed by, from west to east, the San Sebastián Fault the El Pilar Fault System and the Central Range Fault, although some of the displacement is accommodated by movement on other strike-slip structures.
+
+# Earthquake
+
+The magnitude and depth of this event has been estimated based on the extent and shape of isoseismals. The wide extent of moderate to severe shaking suggests an intermediate focal depth for the earthquake of 85 ± 20 kilometres (53 ± 12 miles). This depth is not consistent with rupture along the transform margin, where earthquakes are typically shallow focus, but is consistent with rupture along the subduction interface at the southern end of the Lesser Antilles subduction zone, at the transition to the transform boundary. The magnitude of the earthquake is estimated to be in the range 6.5–7.5 M.
+
+# Damage
+
+The island of Trinidad was the hardest hit by the earthquake. Many houses suffered severe damage or collapsed, as did various religious buildings and at least one fort. Of the estimated population at that time of about 1,500 people there were no reported casualties. Cumaná was severely affected, with the city being described as "entirely destroyed" by Alexander von Humboldt and Aimé Bonpland in their account of their travels in the area from 1799 to 1804, published in 1814. Again there are no reports of casualties, despite the reported damage. In Caracas the damage to houses was generally minor, but several larger structures, including some religious buildings, were more badly affected.
+
+## Key facts
+Local date: October 21, 1766 (1766-10-21)
+Local time: 04:30 (at Cumaná, Venezuela)
+Magnitude: 6.5–7.5 M s
+Depth: 85 ± 20 km (53 ± 12 mi)
+Epicenter: 11°00′N 62°30′W / 11.0°N 62.5°W
+Areas affected: Venezuela, Trinidad
+Max. intensity: EMS-98 IX (Destructive) – EMS-98 X (Very destructive)
+Casualties: None recorded

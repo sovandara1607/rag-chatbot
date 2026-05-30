@@ -1,0 +1,22 @@
+# Abstract
+
+The 15.5 cm/60 3rd Year Type (60口径三年式15.5cm3連装砲, 60 kōkei sannenshiki 15.5 centi sanrensōhō) was a dual-purpose naval gun used by the Imperial Japanese Navy on the Yamato -class battleship s as secondary armament in four triple turrets, the Mogami -class cruiser s in five triple turrets (later converted to five twin 20 cm/50 3rd Year Type naval gun turrets) and on the light cruiser Ōyodo in two triple turrets. The Tone -class cruiser s were also initially planned to carry the 15.5 cm/60 3rd Year Type in five triple turrets, but were redesigned with the 20 cm/50 3rd Year Type in four twin turrets. They were also deployed on 60° single mounts as coastal defense guns in the Tokyo Bay area. Construction was of the monobloc type with autofretting and used a Welin breech block mechanism which could be operated either hydraulically or by hand. Their slow rate of fire, limited elevation and slow traverse made them unsuitable for the AA role, but they were an excellent anti-ship weapon.
+
+## Key facts
+Type: Naval gun
+Place of origin: Japan
+In service: 1935–1945
+Used by: Imperial Japanese Navy
+Wars: World War II
+Designed: 1933
+Manufacturer: Kure Naval Arsenal
+No. built: 80
+Mass: 12.7 metric tons (28,000 lb)
+Length: 9.615 metres (31.55 ft)
+Barrel length: 9.3 metres (31 ft)
+Shell: 55.87 kilograms (123.2 lb)
+Caliber: 155 millimetres (6.1 in) 60 caliber
+Elevation: -7° to +45°
+Rate of fire: 5 rpm
+Muzzle velocity: 925 metres per second (3,030 ft/s)
+Maximum firing range: 27,400 metres (30,000 yd) at 45°

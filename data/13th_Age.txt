@@ -1,0 +1,41 @@
+# Abstract
+
+13th Age is a d20 fantasy role-playing game designed by Rob Heinsoo (lead designer of Dungeons & Dragons 4th Edition) and Jonathan Tweet (lead designer of D&D 3rd Edition), and published by Pelgrane Press. 13th Age has been well supported with over 25 supplements published since its 2013 release, the most recent in 2022.
+
+# Publication history
+
+13th Age was released on 3 August 2013, and the pre-release version was a nominee for the RPG Geek RPG of the Year 2013.
+
+# Setting
+
+The setting of 13th Age is intended to be fleshed out in the course of play. Although there are default places, 13 default Icons that are archetypes of powerful gods and NPCs in standard fantasy settings, and a default bestiary, a lot of the setting is dependent on character creation. This is done by means of having freeform backgrounds rather than predefined skills, and by each character having One Unique Thing that can be anything which has no direct mechanics; examples in the rulebook include I am the only halfling knight of the Dragon Emperor and I have a clockwork heart made by the dwarves, both of which affect both character and the entire setting. In 2018, Rob Heinsoo Games and Chaosium published an alternate setting supplement for Greg Stafford 's Glorantha. 13th Age Glorantha was Kickstarter funded, along with a companion volume further detailing the world, The Gloranthan Sourcebook.
+
+# System
+
+13th Age was designed to be familiar in terms of setting concepts to D&D players, so it is a class-based game with the main rulebook containing standard D&D classes. It is also level-based, with ten levels grouped into three tiers. 13th Age was designed from the ground up to not use miniatures or a grid, and instead uses abstract distances and positioning. In order to speed up combat the Player Characters gain an escalating bonus to hit equal to the number of rounds that have passed starting to count from the second round, known as the "escalation die" (it's a six-sided die, so maximum bonus is +6).
+
+The skills systems often associated with recent versions of Dungeons & Dragons have been replaced with "backgrounds" in 13th Age. Players are encouraged to create backstories for their characters that give them bonuses to actions in the game, often asking them to refer to a time in their fictional past when they have dealt with a similar obstacle and how they overcame it or what they learned from the experience.
+
+Other differences from standard d20 games include the backgrounds taking the place of most utility magic, weapon damage dice being determined by class, spells that are only expended on bad rolls, and recoveries that resemble D&D 4e healing surges.
+
+Like many d20 -variant games, The Archmage Engine – 13th Age SRD was released under the Open Game License, so that its open game content can be copied or modified.
+
+# History
+
+After they had both left Wizards of the Coast, long-time friends and gaming partners Heinsoo and Tweet decided to create a game together. By GenCon 2012 the game was ready for playtesting, and they used the hype created at GenCon to Kickstart a supplement called 13 True Ways even before 13th Age was released. The game was officially launched a week before GenCon 2013.
+
+In August 2022, Pelgrame Press announced a second "Escalation Edition" of 13th Age, to be funded via Kickstarter in early 2023.
+
+In December 2022, the 13th Age SRD was updated to version 3.0 to add classes, monsters and multi-classing rules from the 13 True Ways and Bestiary supplemental books.
+
+# Reception
+
+13th Age won the 2014 Silver Ennie Award for "Best Rules".
+
+## Key facts
+Publishers: Pelgrane Press
+Publication: 3 August 2013
+Genres: Fantasy
+Systems: Archmage Engine (d20 System)
+Website: pelgranepress.com/13th-age/
+ISBN: 9781908983404

@@ -1,0 +1,44 @@
+# Abstract
+
+125 Liberatrix is a main-belt asteroid. It has a relatively reflective surface and an M-type spectrum. Liberatrix is a member of an asteroid family bearing its own name.
+
+It was discovered by Prosper Henry on 11 September 1872, from Paris. Some sources give Paul Henry sole credit for its discovery. The asteroid's name is a feminine version of the word "liberator". Henry may have chosen the name to mark the liberation of France from Prussia during the Franco-Prussian War in 1870. More specifically, it may honor Adolphe Thiers, the first President of the French Republic, who arranged a loan that enabled the Prussian troops to be removed from France.
+
+In the late 1990s, a network of astronomers worldwide gathered lightcurve data to derive the spin states and shape models of 10 asteroids, including Liberatrix. Liberatrix's lightcurve has a large amplitude of 0.4 in magnitude, indicating an elongated or irregular shape.
+
+The spectrum of this asteroid matches a M-type asteroid. It may be the remnant of an asteroid that had undergone differentiation, with orthopyroxene minerals scattered evenly across the surface. There is no indication of hydration.
+
+To date, there have been at least two observed occultations by Liberatrix. Early on 11 December 2014, Liberatrix occulted a 9th magnitude star and was visible over the majority of Southern California and a swath of Mexico.
+
+## Key facts
+Discovered by: Paul Henry and Prosper Henry
+Discovery date: 11 September 1872
+MPC designation: (125) Liberatrix
+Pronunciation: / ˈ l ɪ b ə r eɪ t r ɪ k s /
+Alternative designations: A872 RA; 1902 EG; 1943 FE; 1949 OE 1; 1949 SM; 1954 TD 1
+Minor planet category: Main belt (liberatrix)
+Observation arc: 143.54 yr (52428 d)
+Aphelion: 2.95698 AU (442.358 Gm)
+Perihelion: 2.53084 AU (378.608 Gm)
+Semi-major axis: 2.74391 AU (410.483 Gm)
+Eccentricity: 0.077651
+Orbital period (sidereal): 4.55 yr (1660.2 d)
+Average orbital speed: 17.96 km/s
+Mean anomaly: 307.971 °
+Mean motion: 0° 13 m 0.642 s / day
+Inclination: 4.66407°
+Longitude of ascending node: 169.003°
+Argument of perihelion: 109.288°
+Earth MOID: 1.51912 AU (227.257 Gm)
+Jupiter MOID: 2.13019 AU (318.672 Gm)
+T Jupiter: 3.340
+Dimensions: 43.58 ± 2.3 km 61.058 km
+Mass: 8.7 × 10 16 kg
+Mean density: 2.0 g/cm 3
+Equatorial surface gravity: 0.0122 m/s 2
+Equatorial escape velocity: 0.0231 km/s
+Synodic rotation period: 3.968 h (0.1653 d)
+Geometric albedo: 0.2253 ± 0.026 0.1305 ± 0.0269
+Temperature: ~168 K
+Spectral type: M (Tholen)
+Absolute magnitude (H): 9.04, 8.90

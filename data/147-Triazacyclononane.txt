@@ -1,0 +1,43 @@
+# Abstract
+
+1,4,7-Triazacyclononane, known as "TACN" which is pronounced "tack-en," is an aza-crown ether with the formula (C H NH). TACN is derived, formally speaking, from cyclononane by replacing three equidistant CH groups with NH groups. TACN is one of the oligomers derived from aziridine, C H NH. Other members of the series include piperazine, C H (NH), and the cyclic tetramer 1,4,7,10-tetraazacyclododecane.
+
+# Synthesis
+
+The ligand is prepared from diethylene triamine as follows by macrocyclization using ethyleneglycol ditosylate.
+
+# Coordination chemistry
+
+TACN is a popular tridentate ligand. It is threefold symmetric and binds to one face of an octahedron of metalloids and transition metals. The (TACN)M unit is kinetically inert, allowing further synthetic transformations on the other coordination sites. A bulky analogue of TACN, is the N,N',N"-trimethylated analogue trimethyltriazacyclononane.
+
+# Illustrative complexes
+
+- Although TACN characteristically coordinates to metals in mid- and high oxidation states, e.g. Ni(III), Mn(IV), Mo(III), W(III), exceptions occur. To illustrate, 1,4,7-triazacyclononane reacts readily with Mo(CO) and W(CO) to produce the respective air-stable tricarbonyl compounds, and. Both have an oxidation state of zero. After further reacting with 30% H O, the products are and. Both of these oxo complexes have an oxidation state of 6. The macrocyclic ligand does dissociate in the course of this dramatic change in formal oxidation state of the metal.
+
+- The complex,, a catalyst for hydrolytic cleavage of phosphodiester bonds in DNA, is prepared as follows from TACN trihydrochloride:
+
+- Mn-TACN complexes catalyze epoxidation of alkenes such as styrene using H O as an oxidant in a carbonate buffered methanol solution at a pH of 8.0. These reagents are considered environmentally benign,
+
+- Chromium (II) sources, e.g. created by heating CrCl. 6H O in DMSO react with TACN to form both 1:1 Cr:and 2:1 complexes, e.g. yellow 3+.
+
+## Key facts
+Names: Preferred IUPAC name 1,4,7-Triazonane
+CAS Number: CAS Number
+3D model (JSmol): 3D model (JSmol)
+Beilstein Reference: 773877
+ChEBI: ChEBI
+ChEMBL: ChEMBL
+ChemSpider: ChemSpider
+ECHA InfoCard: 100.164.887
+EC Number: EC Number
+Gmelin Reference: 2614
+PubChem CID: PubChem CID
+UNII: UNII
+CompTox Dashboard (EPA): CompTox Dashboard (EPA)
+Chemical formula: C 6 H 15 N 3
+Molar mass: 129.2046 g/mol
+Hazards: GHS labelling
+Pictograms: Pictograms
+Signal word: Danger
+Hazard statements: H314
+Precautionary statements: P260, P264, P280, P301+P330+P331, P303+P361+P353, P304+P340, P305+P351+P338, P310, P321, P363, P405, P501

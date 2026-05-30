@@ -1,94 +1,116 @@
 """
 download_dataset.py  —  Bulk download Wikipedia articles into data/
 
+Streams the wikimedia/structured-wikipedia dataset from Hugging Face,
+extracts plain text from each article, and writes one .txt file per article
+to data/. Then run `python ingest.py` to build the vector store.
+
+Setup:
+    pip install datasets
+
 Run:
     python download_dataset.py
-
-Edit the ARTICLES list below to choose your topic.
 """
 
+import json
 import os
-import wikipediaapi
+import re
+from datasets import load_dataset
 
-# Wikipedia requires a user-agent string (just a name for your app)
-wiki = wikipediaapi.Wikipedia(
-    user_agent="CS382-RAG-Lab/1.0 (student project)",
-    language="en"
-)
+DATA_DIR = "data"
+NUM_ARTICLES = 500
+MIN_WORDS = 200
 
-os.makedirs("data", exist_ok=True)
 
-# -----------------------------------------------------------------------
-# EDIT THIS LIST to match your chosen topic.
-# -----------------------------------------------------------------------
+def extract_sections(sections_json: str | None) -> str:
+    """Walk the section tree pulling headings, paragraphs, lists, and table captions."""
+    if not sections_json:
+        return ""
+    parts = []
 
-# --- Study Buddy Bot (AI / CS topics) ---
-ARTICLES = [
-    "Machine learning",
-    "Artificial neural network",
-    "Natural language processing",
-    "Deep learning",
-    "Transformer (deep learning architecture)",
-    "Large language model",
-    "Information retrieval",
-    "Vector space model",
-    "Cosine similarity",
-    "Knowledge base",
-]
+    def walk(node, depth=0):
+        if isinstance(node, dict):
+            t = node.get("type")
+            if t == "section" and node.get("name"):
+                parts.append(("#" * max(depth, 1)) + " " + node["name"])
+            elif t == "paragraph" and node.get("value"):
+                parts.append(node["value"])
+            elif t == "list":
+                for item in node.get("has_parts", []) or []:
+                    if isinstance(item, dict) and item.get("value"):
+                        parts.append("- " + item["value"])
+            elif t == "table" and node.get("name"):
+                parts.append(f"[table: {node['name']}]")
+            for child in node.get("has_parts", []) or []:
+                walk(child, depth + 1 if t == "section" else depth)
+        elif isinstance(node, list):
+            for item in node:
+                walk(item, depth)
 
-# --- Movie Recommendation Bot (uncomment to use instead) ---
-ARTICLES = [
-    "Inception (film)",
-    "Interstellar (film)",
-    "The Dark Knight",
-    "Spirited Away",
-    "Your Name (film)",
-    "Attack on Titan",
-    "Demon Slayer: Kimetsu no Yaiba",
-    "Princess Mononoke",
-    "Parasite (2019 film)",
-    "Everything Everywhere All at Once",
-]
+    walk(json.loads(sections_json))
+    return "\n\n".join(parts).strip()
 
-# --- Relationship Bot (uncomment to use instead) ---
-ARTICLES = [
-    "Attachment theory",
-    "Emotional intelligence",
-    "Communication",
-    "Interpersonal relationship",
-    "Love languages",
-    "Conflict resolution",
-    "Empathy",
-    "Active listening",
-    "Psychological manipulation",
-    "Self-esteem",
-]
 
-# -----------------------------------------------------------------------
+def extract_infoboxes(infoboxes_json: str | None) -> str:
+    """Flatten infobox key/value pairs into 'key: value' lines."""
+    if not infoboxes_json:
+        return ""
+    lines = []
 
-total_words = 0
+    def walk(node):
+        if isinstance(node, dict):
+            name = node.get("name")
+            value = node.get("value")
+            if name and value and isinstance(value, str):
+                lines.append(f"{name}: {value}")
+            for child in node.get("has_parts", []) or []:
+                walk(child)
+        elif isinstance(node, list):
+            for item in node:
+                walk(item)
 
-for title in ARTICLES:
-    page = wiki.page(title)
-    if not page.exists():
-        print(f"  ✗ NOT FOUND: {title}")
-        continue
+    walk(json.loads(infoboxes_json))
+    return "\n".join(lines).strip()
 
-    # Use only the main text (no references section)
-    text = page.text
-    words = len(text.split())
-    total_words += words
 
-    # Save as a clean .txt file
-    filename = title.replace(" ", "_").replace("/", "-").replace(":", "") + ".txt"
-    filepath = os.path.join("data", filename)
-    with open(filepath, "w", encoding="utf-8") as f:
-        f.write(f"TITLE: {title}\n")
-        f.write(f"SOURCE: {page.fullurl}\n\n")
-        f.write(text)
+def extract_text(row: dict) -> str:
+    sections = extract_sections(row.get("sections"))
+    infoboxes = extract_infoboxes(row.get("infoboxes"))
+    if infoboxes:
+        return f"{sections}\n\n## Key facts\n{infoboxes}"
+    return sections
 
-    print(f"  ✓ {title:45s} ({words:,} words) → data/{filename}")
 
-print(f"\nDone! {len(ARTICLES)} articles, ~{total_words:,} words total "
-      f"(≈ {total_words // 250} pages)")
-print("\nNext step: python ingest.py")
+def safe_filename(name: str) -> str:
+    cleaned = re.sub(r"[^\w\s-]", "", name).strip().replace(" ", "_")
+    return cleaned[:100] or "untitled"
+
+
+def main():
+    os.makedirs(DATA_DIR, exist_ok=True)
+
+    ds = load_dataset(
+        "wikimedia/structured-wikipedia",
+        "enwiki_namespace_0",
+        split="train",
+        streaming=True,
+    )
+
+    saved = 0
+    for row in ds:
+        if saved >= NUM_ARTICLES:
+            break
+        text = extract_text(row)
+        if len(text.split()) < MIN_WORDS:
+            continue
+        path = os.path.join(DATA_DIR, safe_filename(row["name"]) + ".txt")
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(text)
+        saved += 1
+        print(f"  + {row['name']} ({len(text.split())} words)")
+
+    print(f"\nDone. Saved {saved} articles to '{DATA_DIR}/'.")
+
+
+if __name__ == "__main__":
+    main()

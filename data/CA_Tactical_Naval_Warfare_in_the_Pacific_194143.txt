@@ -1,0 +1,63 @@
+# Abstract
+
+' CA ': Tactical Naval Warfare in the Pacific, 1941–45 is a board wargame published by Simulations Publications Inc. (SPI) in 1973 that simulates surface naval battles during the Pacific Campaign of the Second World War.
+
+# Description
+
+In the U.S. Navy, "CA" means "cruiser", one of the various ships employed in this two-player game, as well as battleships, battlecruisers, and destroyers. It is a game of surface combat only, and there are no aircraft carriers, aircraft or submarines. Depending on the scenario, combat can involve maneuvering, momentum, torpedoes, night combat, and various aspects of naval gunnery.
+
+# Components
+
+The game includes:
+
+- 22" x 35" paper hex grid map scaled at 0.5 nautical miles (927 m) per hex
+
+- 400 die-cut counters
+
+- rules sheet
+
+# Gameplay
+
+Turns are divided into an "I Go, You Go" sequence subdivided into four phases:
+
+- Gunnery Attack Phase
+
+- Torpedo Attack Phase
+
+- Movement Phase
+
+- Acceleration/Deceleration Phase
+
+# Scenarios
+
+The game comes with seven historical scenarios:
+
+The game also includes three "what-if" scenarios:
+
+# Publication history
+
+' CA ' was designed by Jim Dunnigan, and was published as a pull-out game in Strategy & Tactics #38 in 1973. It was also published as a boxed set the same year.
+
+# Reception
+
+In A Player's Guide to Table Games, John Jackson called this game "a fairly successful attempt to do a game similar to Jutland within the confines of a standard game board." He concluded, "For an SPI game, the rules are relatively clear and uncomplicated."
+
+In his 1977 book The Comprehensive Guide to Board Wargaming, Nicholas Palmer commented that the 4-year-old game was "popular with naval fans, but an older design than the relatively recent successes in this theatre: Dreadnought, Frigate, and Wooden Ships and Iron Men."
+
+In issue 14 of Moves, although Pete Lomoe liked the game, calling it "fast, clean and certainly one of the best", he thought changes were needed in several areas, including gunnery and torpedo action, and hidden movement during night actions.
+
+In Issue 12 of Fire & Movement, Friederich Helfferich was not impressed with this game, writing, "A story has made the rounds in the hobby: when two gamers get bored, they start playing CA. They need no map board, no counters, no rulebook, no errata, just a die. Whoever rolls the lower number scores a hit and wins." Helfferich concluded, "Unless the combatants strive to reenact history rather than play to win, their ships will mill around on the board in a wild free-for-all reminiscent of an ant heap, not a naval engagement. There is little room for genuine naval tactics in this game." In a later issue of Fire & Movement, Helfferich added, "With just five pages of rules the game attempts to capture the spirit of the Solomons Campaign battles. The designer's notes states that 'tactical naval warfare is basically quite simple.' The product nicely reflects this opinion, but resembles an anthill more than naval combat."
+
+In The Guide to Simulations/Games for Education and Training, Martin Campion noted that "Some aspects of this game will undoubtedly appear to be oversimplified to any player. Nevertheless the result is remarkably faithful to the action of a naval engagement."
+
+In a retrospective review more than 30 years after the publication of ' CA ', Luc Olivier noted "In 1973, it should have been a good game and the first good tactical naval simulation around, with some good ideas like the speed/facing markers. But now, nothing more remains: graphics are prehistoric, tactics are wrong and the system doesn't give the right feeling. The only good point is that the scenarios are short and the game is easy to learn and quick to play. "
+
+# Other reviews and commentary
+
+- The Wargamer Vol.1 #4
+
+- Panzerfaust #69
+
+- Outposts #12
+
+- Jagdpanther #3

@@ -1,0 +1,51 @@
+# Abstract
+
+The.32 NAA is a cartridge/firearm 'system' designed and developed by the partnership of North American Arms and Corbon Ammunition. The cartridge is a.380 ACP case necked-down to hold a.32 caliber bullet with the goal of improved ballistic performance over the.32 ACP.
+
+# History and design
+
+Bottleneck handgun cartridge designs experienced early success and have had continuing development since at least the 7.65×25mm Borchardt or earlier, which led to the development of the 7.63×25mm Mauser (also known as the.30 Mauser), followed by the 7.62×25mm Tokarev. The benefits of bottleneck designs include smooth feeding and chambering and simple, robust headspacing.
+
+The.32 NAA uses the.312" diameter bullet of the.32 S&W,.32 S&W Long,.32 H&R Magnum, and.327 Federal Magnum, and.32 ACP.
+
+The.32 NAA is one of the most recent of a line of commercial bottleneck handgun cartridges. Renewed western interest in bottleneck handgun cartridges began with the.357 SIG in 1994 (necking a.40 S&W case down to a.355 bullet); followed by the.400 Corbon in 1996 (necking a.45 ACP case down to hold a.40 cal. bullet); and then the.25 NAA in 1999 (necking a.32 ACP case down to hold a.25 caliber bullet). 2015 saw the introduction of the 7.5 FK bottleneck cartridge by the Czech company FK BRNO.
+
+# Performance
+
+The cartridge delivers in excess of 1,222 ft/s (372 m/s) velocity to a 60 grain (3.9 gram) proprietary bullet from Hornady. This generates 199 ft⋅lbf (270 J) of energy from the 2.5" Guardian barrel (1453 ft/s & 287 ft⋅lbf (389 J) from a 4" test barrel).
+
+According to Phil W. Johnston, the 60 gr Corbon cartridge averaged 1204 fps, with an extreme spread of 69 fps and a standard deviation of 19 fps, for 193.09 ft-lbs of energy. When fired at ballistic gelatin, he obtained 6.25" of penetration, with expansion to 0.528" and 72% weight retention.
+
+Extreme Shock Ammunition offers an "Enhanced Penetration Round" that sends a 60 gr. bullet at 1196 fps for 190 ft lbs of energy.
+
+In fall 2012, Hornady released a.32 NAA Critical Defense load that propels a relatively heavy (thus higher sectional density), 80 grain JHP FTX bullet at 1,000 fps.
+
+# Handguns
+
+The North American Arms Guardian.32 NAA is designed around this cartridge.
+
+Diamondback Firearms offers.32 NAA conversion barrels (2.8") for their DB380 pistols.
+
+Makarov.com once stocked barrels of two different lengths for converting Makarov pistols to.32 NAA.
+
+## Key facts
+Type: Pistol
+Place of origin: United States
+Designer: North American Arms / Ed Sanow
+Designed: 1996
+Manufacturer: North American Arms
+Produced: 2002–present
+Parent case: .380 ACP
+Case type: Rimless, bottlenecked
+Bullet diameter: .3129 in (7.95 mm)
+Neck diameter: .3365 in (8.55 mm)
+Shoulder diameter: .3729 in (9.47 mm)
+Base diameter: .3740 in (9.50 mm)
+Rim diameter: .3740 in (9.50 mm)
+Rim thickness: .045 in (1.1 mm)
+Case length: .680 in (17.3 mm)
+Overall length: .984 in (25.0 mm)
+Case capacity: 10.5 gr H 2 O (0.68 cm 3)
+Rifling twist: 1 in 16 in (410 mm)
+Primer type: small pistol
+Maximum pressure: 25,700 psi (177 MPa)

@@ -1,0 +1,45 @@
+# Abstract
+
+163 Erigone is an asteroid from the asteroid belt and the namesake of the Erigone family of asteroids that share similar orbital elements and properties. It was discovered by French astronomer Henri Joseph Perrotin on April 26, 1876, and named after one of the two Erigones in Greek mythology. This asteroid is orbiting the Sun at a distance of 2.37 AU with a period of 3.643 years and an eccentricity (ovalness) of 0.19. The orbital plane is inclined at an angle of 4.8° to the plane of the ecliptic.
+
+Photometric measurements taken in 2014 were used to construct a lightcurve that demonstrated a rotation period of 16.136 ± 0.001 h with an amplitude of 0.32 ± 0.02 in magnitude. Erigone is a relatively large and dark asteroid with an estimated size of 73 km. Based upon its spectrum, it is classified as a C-type asteroid, which indicates that it probably has a carbonaceous composition. It is the largest member of the eponymously named Erigone collisional family.
+
+# 2014 occultation of Regulus
+
+In the early morning hours of March 20, 2014, Erigone occulted the first-magnitude star Regulus, as first predicted by Aldo Vitagliano in 2004 using the SOLEX software. This would have been a rare case of an occultation of a very bright star visible from a highly populated area, since the shadow path moved across New York state and Ontario, including all five boroughs of New York City. Observers in the shadow path would have seen the star wink out for as long as 14 seconds.
+
+However, thick clouds and rain blocked the view for most if not all people on the shadow path. The website of the International Occultation Timing Association does not list any successful observations at all.
+
+Two single chord Asteroid Occultation events have been observed, in 2013 and 2015.
+
+## Key facts
+Discovered by: J. Perrotin
+Discovery site: Toulouse
+Discovery date: 26 April 1876
+MPC designation: (163) Erigone
+Pronunciation: / ɪ ˈ r ɪ ɡ ə n iː /
+Named after: Erigone
+Alternative designations: A876 HC; 1892 RA; 1957 OT; 2017 YH 23
+Minor planet category: Main belt (Erigone)
+Adjectives: Erigonian / ɛ r ɪ ˈ ɡ oʊ n i ə n / Erigonean / ɛ r ɪ ɡ ə ˈ n iː ə n /
+Observation arc: 123.56 yr (45131 d)
+Aphelion: 2.8188 AU (421.69 Gm)
+Perihelion: 1.9161 AU (286.64 Gm)
+Semi-major axis: 2.3675 AU (354.17 Gm)
+Eccentricity: 0.19064
+Orbital period (sidereal): 3.64 yr (1330.5 d)
+Mean anomaly: 280.031 °
+Mean motion: 0° 16 m 14.052 s / day
+Inclination: 4.8148°
+Longitude of ascending node: 160.166°
+Argument of perihelion: 298.260°
+Earth MOID: 0.93686 AU (140.152 Gm)
+Jupiter MOID: 2.3628 AU (353.47 Gm)
+T Jupiter: 3.518
+Dimensions: 72.63 ± 5.7 km 72.70 ± 1.95 km
+Mass: (2.01 ± 0.68) × 10 18 kg
+Mean density: 9.99 ± 3.45 g/cm 3
+Synodic rotation period: 16.136 h (0.6723 d)
+Geometric albedo: 0.0546 ± 0.010 0.0428 ± 0.0092
+Spectral type: C (Tholen)
+Absolute magnitude (H): 9.47, 9.48

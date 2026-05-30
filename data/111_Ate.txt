@@ -1,0 +1,41 @@
+# Abstract
+
+111 Ate is a main-belt asteroid discovered by the German-American astronomer C. H. F. Peters on August 14, 1870, and named after Ate, the goddess of mischief and destruction in Greek mythology. In the Tholen classification system, it is categorized as a carbonaceous C-type asteroid, while the Bus asteroid taxonomy system lists it as an Ch asteroid.
+
+Two stellar occultations by Ate were observed in 2000, two months apart. Its occultation of the star HIP 2559 was used to determine a chord length of 125.6 ± 7.2 km through the asteroid, giving a lower bound on the maximum dimension. During 2000, 111 Ate was observed by radar from the Arecibo Observatory. The return signal matched an effective diameter of 135 ± 15 km. The estimated size of this asteroid is 143 km, making it one of the larger asteroids.
+
+Based upon an irregular light curve generated from photometric observations of this asteroid at Pulkovo Observatory, it has a rotation period of 22.072 ± 0.001 hours and varies in brightness by 0.12 ± 0.01 in magnitude.
+
+## Key facts
+Discovered by: Christian Heinrich Friedrich Peters
+Discovery date: 14 August 1870
+MPC designation: (111) Ate
+Pronunciation: / ˈ eɪ t iː /
+Named after: Ate
+Alternative designations: A870 PA; 1911 KE; 1935 AA
+Minor planet category: Main belt
+Observation arc: 145.66 yr (53202 d)
+Aphelion: 2.8614 AU (428.06 Gm)
+Perihelion: 2.32553 AU (347.894 Gm)
+Semi-major axis: 2.59349 AU (387.981 Gm)
+Eccentricity: 0.10332
+Orbital period (sidereal): 4.18 yr (1525.5 d)
+Average orbital speed: 18.44 km/s
+Mean anomaly: 190.607 °
+Mean motion: 0° 14 m 9.532 s / day
+Inclination: 4.9318°
+Longitude of ascending node: 305.757°
+Argument of perihelion: 166.424°
+Earth MOID: 1.34088 AU (200.593 Gm)
+Jupiter MOID: 2.23131 AU (333.799 Gm)
+T Jupiter: 3.406
+Dimensions: 126.34 km 142.85 ± 5.94 km
+Mass: (1.76 ± 0.44) × 10 18 kg
+Mean density: 1.15 ± 0.32 g/cm 3
+Equatorial surface gravity: 0.0376 m/s²
+Equatorial escape velocity: 0.0712 km/s
+Synodic rotation period: 22.072 h (0.9197 d) 22.072 ± 0.001 h
+Geometric albedo: 0.0605 ± 0.004
+Temperature: ~173 K
+Spectral type: C
+Absolute magnitude (H): 8.02

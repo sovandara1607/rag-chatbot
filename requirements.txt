@@ -4,5 +4,6 @@ sentence-transformers>=2.7.0
 openai>=1.30.0
 python-dotenv>=1.0.0
 pypdf>=4.0.0
+datasets>=2.18
 protobuf>=5.27,<7
 opentelemetry-proto>=1.31
