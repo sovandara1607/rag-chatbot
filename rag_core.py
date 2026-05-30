@@ -63,7 +63,10 @@ def _rebuild_db():
     in-process state (cached PersistentClient, open sqlite handles, tenant
     bootstrap) doesn't contaminate the rebuild."""
     import shutil, sys, subprocess
-    from chromadb.api.client import SharedSystemClient
+    try:
+        from chromadb.api.shared_system_client import SharedSystemClient
+    except ImportError:
+        from chromadb.api.client import SharedSystemClient  # chromadb < 0.6
     SharedSystemClient.clear_system_cache()
     if os.path.isdir(_DB_PATH):
         shutil.rmtree(_DB_PATH)
