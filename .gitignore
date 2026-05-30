@@ -38,3 +38,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Local chat history (user-specific, persisted by app.py)
+chats.json
