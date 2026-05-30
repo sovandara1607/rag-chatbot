@@ -1,4 +1,4 @@
-# 📚 Study Buddy — RAG Chatbot (CS382 Lab)
+# Study Buddy — RAG Chatbot (CS382 Lab)
 
 An "open-book" AI chatbot. It searches a vector store for relevant passages
 from your documents and feeds them to an LLM, so answers are grounded in your
