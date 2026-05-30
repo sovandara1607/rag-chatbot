@@ -13,7 +13,7 @@ Features:
 import streamlit as st
 from rag_core import answer
 
-st.set_page_config(page_title="Study Buddy — RAG Chatbot", page_icon="📚")
+st.set_page_config(page_title="Study Buddy - RAG Chatbot", page_icon="📚")
 st.title("Study Buddy")
 st.caption("An open-book AI that answers from your documents using RAG.")
 
