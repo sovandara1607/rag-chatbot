@@ -58,15 +58,22 @@ def _collection():
     embed_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
         model_name=EMBED_MODEL
     )
-    client = chromadb.PersistentClient(path=DB_DIR)
     try:
+        client = chromadb.PersistentClient(path=DB_DIR)
         return client.get_collection(COLLECTION_NAME, embedding_function=embed_fn)
     except Exception:
-        import shutil, os
+        # The on-disk DB is missing or in an incompatible format. Wipe it and
+        # re-ingest. Chromadb caches PersistentClient instances by path at the
+        # process level, so we must clear that cache or the rebuilt client
+        # would still see the broken state.
+        import shutil
+        from chromadb.api.client import SharedSystemClient
+        SharedSystemClient.clear_system_cache()
         if os.path.isdir(DB_DIR):
             shutil.rmtree(DB_DIR)
         from ingest import main as run_ingest
         run_ingest()
+        SharedSystemClient.clear_system_cache()
         client = chromadb.PersistentClient(path=DB_DIR)
         return client.get_collection(COLLECTION_NAME, embedding_function=embed_fn)
 
