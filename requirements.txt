@@ -1,6 +1,8 @@
-streamlit>=1.33
-chromadb>=0.5.0
+streamlit>=1.33,<2
+chromadb==1.5.9
 sentence-transformers>=2.7.0
 openai>=1.30.0
 python-dotenv>=1.0.0
 pypdf>=4.0.0
+protobuf>=5.27,<7
+opentelemetry-proto>=1.31
