@@ -58,13 +58,21 @@ def _collection():
     embed_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
         model_name=EMBED_MODEL
     )
-    client = chromadb.PersistentClient(path=DB_DIR)
     try:
+        client = chromadb.PersistentClient(path=DB_DIR)
         return client.get_collection(COLLECTION_NAME, embedding_function=embed_fn)
     except Exception:
-        import shutil, os
+        # The on-disk DB is missing or in an incompatible format. Rebuild.
+        # Order matters: close cached chromadb handles BEFORE rmtree (else the
+        # cached PersistentClient keeps the broken sqlite alive via an open fd
+        # and ingest writes into it instead of a fresh DB), then recreate the
+        # directory so the next PersistentClient can open a fresh sqlite.
+        from chromadb.api.client import SharedSystemClient
+        import shutil
+        SharedSystemClient.clear_system_cache()
         if os.path.isdir(DB_DIR):
             shutil.rmtree(DB_DIR)
+        os.makedirs(DB_DIR, exist_ok=True)
         from ingest import main as run_ingest
         run_ingest()
         client = chromadb.PersistentClient(path=DB_DIR)
