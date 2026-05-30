@@ -54,28 +54,33 @@ RULES:
 """
 
 
+_HERE = os.path.dirname(os.path.abspath(__file__))
+_DB_PATH = os.path.join(_HERE, DB_DIR)
+
+
+def _rebuild_db():
+    """Wipe the on-disk DB and rebuild it via a subprocess so chromadb's
+    in-process state (cached PersistentClient, open sqlite handles, tenant
+    bootstrap) doesn't contaminate the rebuild."""
+    import shutil, sys, subprocess
+    from chromadb.api.client import SharedSystemClient
+    SharedSystemClient.clear_system_cache()
+    if os.path.isdir(_DB_PATH):
+        shutil.rmtree(_DB_PATH)
+    subprocess.check_call([sys.executable, "ingest.py"], cwd=_HERE)
+    SharedSystemClient.clear_system_cache()
+
+
 def _collection():
     embed_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
         model_name=EMBED_MODEL
     )
     try:
-        client = chromadb.PersistentClient(path=DB_DIR)
+        client = chromadb.PersistentClient(path=_DB_PATH)
         return client.get_collection(COLLECTION_NAME, embedding_function=embed_fn)
     except Exception:
-        # The on-disk DB is missing or in an incompatible format. Rebuild.
-        # Order matters: close cached chromadb handles BEFORE rmtree (else the
-        # cached PersistentClient keeps the broken sqlite alive via an open fd
-        # and ingest writes into it instead of a fresh DB), then recreate the
-        # directory so the next PersistentClient can open a fresh sqlite.
-        from chromadb.api.client import SharedSystemClient
-        import shutil
-        SharedSystemClient.clear_system_cache()
-        if os.path.isdir(DB_DIR):
-            shutil.rmtree(DB_DIR)
-        os.makedirs(DB_DIR, exist_ok=True)
-        from ingest import main as run_ingest
-        run_ingest()
-        client = chromadb.PersistentClient(path=DB_DIR)
+        _rebuild_db()
+        client = chromadb.PersistentClient(path=_DB_PATH)
         return client.get_collection(COLLECTION_NAME, embedding_function=embed_fn)
 
 
