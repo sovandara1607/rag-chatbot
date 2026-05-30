@@ -9,14 +9,14 @@ __pycache__/
 *$py.class
 *.so
 
+# Generated vector store (rebuilt at startup by rag_core.py)
+chroma_db/
+
 # Distribution / packaging
 build/
 dist/
 *.egg-info/
 *.egg
-
-# Downloaded dataset (re-fetch with download_dataset.py)
-data/
 
 # Environment / secrets
 .env

@@ -55,7 +55,16 @@ def _collection():
         model_name=EMBED_MODEL
     )
     client = chromadb.PersistentClient(path=DB_DIR)
-    return client.get_collection(COLLECTION_NAME, embedding_function=embed_fn)
+    try:
+        return client.get_collection(COLLECTION_NAME, embedding_function=embed_fn)
+    except Exception:
+        import shutil, os
+        if os.path.isdir(DB_DIR):
+            shutil.rmtree(DB_DIR)
+        from ingest import main as run_ingest
+        run_ingest()
+        client = chromadb.PersistentClient(path=DB_DIR)
+        return client.get_collection(COLLECTION_NAME, embedding_function=embed_fn)
 
 
 def retrieve(query: str, k: int = TOP_K):
