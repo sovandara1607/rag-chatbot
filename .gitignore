@@ -15,9 +15,6 @@ dist/
 *.egg-info/
 *.egg
 
-# Generated vector store (rebuild with ingest.py)
-chroma_db/
-
 # Downloaded dataset (re-fetch with download_dataset.py)
 data/
 
