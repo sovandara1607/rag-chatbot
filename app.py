@@ -541,10 +541,7 @@ if st.session_state.current_id is None and st.session_state.pending is None:
     )
 
     chips = [
-        "What is RAG?",
-        "Explain cosine similarity",
-        "How do embeddings work?",
-        "What is a transformer?",
+        "What is Machine Learning?",
     ]
     cols = st.columns(len(chips))
     for col, chip in zip(cols, chips):

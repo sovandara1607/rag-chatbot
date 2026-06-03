@@ -143,7 +143,7 @@ if __name__ == "__main__":
     # Quick command-line test without the UI:
     #     python rag_core.py "What is an embedding?"
     import sys
-    q = " ".join(sys.argv[1:]) or "What is RAG?"
+    q = " ".join(sys.argv[1:]) or "What is Machine Learning?"
     text, sources = answer(q)
     print("\nANSWER:\n", text)
     print("\nSOURCES:")
